@@ -1,4 +1,4 @@
-## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Behavioral-Cloning-Project_3/blob/master/report.html)
+## My solution for this project can be viewed by opening "report.html" in a browser.
 *The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-Behavioral-Cloning-P3)*
 
 # Behaviorial Cloning Project
