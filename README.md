@@ -1,5 +1,5 @@
-## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Behavioral-Cloning-Project_3/blob/master/P1.ipynb)
-*The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-LaneLines-P1)*
+## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Behavioral-Cloning-Project_3/blob/master/report.html)
+*The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-Behavioral-Cloning-P3)*
 
 # Behaviorial Cloning Project
 
